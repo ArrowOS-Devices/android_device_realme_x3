@@ -13,6 +13,9 @@ persist.vendor.cne.feature=1
 ro.vendor.use_data_netmgrd=true
 persist.vendor.data.mode=concurrent
 
+# Dex2oat
+dalvik.vm.dex2oat64.enabled=true
+
 # FUSE
 persist.sys.fuse.passthrough.enable=true
 
