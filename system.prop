@@ -37,6 +37,10 @@ ro.vendor.qti.va_aosp.support=1
 # Sensors
 persist.vendor.sensors.enable.mag_filter=true
 
+# SoC
+ro.soc.manufacturer=QTI
+ro.soc.model=SM8150
+
 # Telephony
 persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
