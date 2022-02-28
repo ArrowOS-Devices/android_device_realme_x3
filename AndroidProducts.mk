@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2021 WaveOS
+# Copyright (C) 2022 ArrowOS
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/wave_x3.mk
+    $(LOCAL_DIR)/arrow_x3.mk
 
 COMMON_LUNCH_CHOICES := \
-    wave_x3-user \
-    wave_x3-userdebug \
-    wave_x3-eng
+    arrow_x3-user \
+    arrow_x3-userdebug \
+    arrow_x3-eng
