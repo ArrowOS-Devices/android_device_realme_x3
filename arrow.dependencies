@@ -4,6 +4,10 @@
         "target_path": "hardware/oplus"
     },
     {
+        "repository":  "android_kernel_realme_x3",
+        "target_path": "kernel/realme/x3"
+    },
+    {
         "repository":  "android_vendor_realme_x3",
         "target_path": "vendor/realme/x3"
     }
