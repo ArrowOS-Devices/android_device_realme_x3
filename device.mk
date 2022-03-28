@@ -24,7 +24,7 @@ PRODUCT_PACKAGE_OVERLAYS += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    Snap
+    GCamGOPrebuilt-V2
 
 # Display
 PRODUCT_AAPT_CONFIG := normal
