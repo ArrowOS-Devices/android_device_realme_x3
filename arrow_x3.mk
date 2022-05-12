@@ -30,7 +30,7 @@ $(call inherit-product, vendor/arrow/config/common.mk)
 PRODUCT_NAME := arrow_x3
 PRODUCT_DEVICE := x3
 PRODUCT_BRAND := realme
-PRODUCT_MODEL := X3
+PRODUCT_MODEL := Realme X3 / SuperZoom
 PRODUCT_MANUFACTURER := realme
 PRODUCT_GMS_CLIENTID_BASE := android-oppo
 
