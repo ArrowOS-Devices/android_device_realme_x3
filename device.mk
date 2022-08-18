@@ -7,8 +7,8 @@
 # Inherit proprietary blobs
 $(call inherit-product, vendor/realme/x3/x3-vendor.mk)
 
-# Inherit GSI keys
-$(call inherit-product, $(SRC_TARGET_DIR)/product/gsi_keys.mk)
+# Include Developer GSI keys
+$(call inherit-product, $(SRC_TARGET_DIR)/product/developer_gsi_keys.mk)
 
 # Inherit updatable APEX
 OVERRIDE_PRODUCT_COMPRESSED_APEX := false
