@@ -18,6 +18,9 @@ my_product/etc/permissions/com.android.hotwordenrollment.okgoogle.xml:product/et
 my_product/framework/com.android.hotwordenrollment.common.util.jar:product/framework/com.android.hotwordenrollment.common.util.jar
 -my_product/priv-app/HotwordEnrollmentOKGoogleWCD9340.apk:product/priv-app/HotwordEnrollmentOKGoogleWCD9340.apk
 
+# Power Service
+vendor/bin/hw/android.hardware.power-service:product/vendor_overlay/30/bin/hw/android.hardware.power-service
+
 # Soter
 -system_ext/app/SoterService/SoterService.apk
 

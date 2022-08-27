@@ -98,10 +98,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/parts/init/realmeparts.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/realmeparts.rc
 
-# Power
-PRODUCT_PACKAGES += \
-    android.hardware.power-service.x3
-
 # RCS
 PRODUCT_PACKAGES += \
     com.android.ims.rcsmanager \
