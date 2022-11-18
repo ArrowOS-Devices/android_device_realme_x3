@@ -34,4 +34,5 @@ PRODUCT_MODEL := Realme X3 / SuperZoom
 PRODUCT_MANUFACTURER := realme
 PRODUCT_GMS_CLIENTID_BASE := android-oppo
 
-DEVICE_MAINTAINER := Adithya (ghostrider_reborn)
+# ArrowOS additions
+DEVICE_MAINTAINER := Adithya (ghostrider_reborn) and EdwardWu
