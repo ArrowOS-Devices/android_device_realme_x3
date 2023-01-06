@@ -1,14 +1,18 @@
 [
-    {
-        "repository":  "android_hardware_oplus",
-        "target_path": "hardware/oplus"
-    },
-    {
-        "repository":  "android_kernel_realme_x3",
-        "target_path": "kernel/realme/x3"
-    },
-    {
-        "repository":  "android_vendor_realme_x3",
-        "target_path": "vendor/realme/x3"
-    }
+  {
+    "repository": "android_hardware_oplus",
+    "target_path": "hardware/oplus"
+  },
+  {
+    "repository": "android_kernel_realme_x3",
+    "target_path": "kernel/realme/x3"
+  },
+  {
+    "repository": "android_vendor_realme_x3",
+    "target_path": "vendor/realme/x3"
+  },
+  {
+    "repository": "android_packages_apps_GCamGOPrebuilt",
+    "target_path": "packages/apps/GCamGOPrebuilt"
+  }
 ]
